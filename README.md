@@ -1,8 +1,5 @@
 <div align="center" id="top"> 
-  <img src="blob/main/clock-js/clock.png?raw=true" alt="Relógio analógico" />
-
-&#xa0;
-
+  <img src="https://user-images.githubusercontent.com/72886481/128117776-5c8a3c1a-7233-4b52-a9a6-65999dac0729.png"/>
 </div>
 
 <h1 align="center">Relógio Analógico - JS</h1>
