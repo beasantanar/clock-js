@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github//blob/clock-js/clock.png" alt="Relógio analógico" />
+  <img src="./.github//blob/main/clock-js/clock.png?raw=true" alt="Relógio analógico" />
 
 &#xa0;
 
@@ -52,4 +52,4 @@ $ cd clock-js
 
 <p align="center">Feito com :heart: por <a href="https://github.com/beasantanar" target="_blank">Beatriz Santana</a></p>
 <br>
-<a href="#top" align="center">Volte para o início</a>
+<p align="center><a href="#top">Volte para o início</a></p>
