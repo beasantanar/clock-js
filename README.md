@@ -51,5 +51,5 @@ $ cd clock-js
 ```
 
 <p align="center">Feito com :heart: por <a href="https://github.com/beasantanar" target="_blank">Beatriz Santana</a></p>
-<br>
+
 <p align="center"><a href="#top">Volte para o início</a></p>
