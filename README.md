@@ -1,8 +1,8 @@
+<h1 align="center">Relógio Analógico - JS</h1>
+
 <div align="center" id="top"> 
   <img src="https://user-images.githubusercontent.com/72886481/128117776-5c8a3c1a-7233-4b52-a9a6-65999dac0729.png"/>
 </div>
-
-<h1 align="center">Relógio Analógico - JS</h1>
 
 <p align="center">
   <a href="#dart-about">Sobre</a> &#xa0; | &#xa0; 
